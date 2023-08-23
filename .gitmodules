@@ -1,0 +1,15 @@
+[submodule "cpp_module_00"]
+	path = cpp_module_00
+	url = git@github.com:PliegerNicolas/cpp_module_00.git
+[submodule "cpp_module_01"]
+	path = cpp_module_01
+	url = git@github.com:PliegerNicolas/cpp_module_01.git
+[submodule "cpp_module_02"]
+	path = cpp_module_02
+	url = git@github.com:PliegerNicolas/cpp_module_02.git
+[submodule "cpp_module_03"]
+	path = cpp_module_03
+	url = git@github.com:PliegerNicolas/cpp_module_03.git
+[submodule "cpp_module_04"]
+	path = cpp_module_04
+	url = git@github.com:PliegerNicolas/cpp_module_04.git
