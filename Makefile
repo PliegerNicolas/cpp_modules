@@ -6,7 +6,7 @@
 #    By: nplieger <marvin@42.fr>                    +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2023/08/31 11:27:22 by nplieger          #+#    #+#              #
-#    Updated: 2023/08/31 15:14:31 by nplieger         ###   ########.fr        #
+#    Updated: 2023/08/31 19:38:07 by nicolas          ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -23,6 +23,6 @@ pull:			all
 
 clean:
 	@echo "\033[36;2mUninitialize submodules\033[0m"
-	@git submodule deinit --quiet --all
+	@git submodule deinit -f --quiet --all
 
 .PHONY: pull clean
